@@ -1,0 +1,65 @@
+body {
+  background-color: #f1eeea;
+}
+
+.header {
+  background-color: #192140;
+}
+
+.hero {
+  background-color: #f1eeea;
+}
+
+.quote {
+  background-color: #f1eeea;
+}
+
+.footer {
+  background-color: #192140;
+}
+
+.intro {
+  color: #192140;
+  padding: 0%;
+}
+
+.link {
+  color: #f1eeea;
+}
+
+.link2 {
+  color: #c1b9ac;
+}
+
+.item {
+  color: #f1eeea;
+  margin: 0%;
+  padding: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  height: 100px;
+  width: 100px;
+}
+
+.profile {
+  border-radius: 50%;
+  height: 150px;
+  padding: 0px;
+  margin-bottom: 10px;
+  border-color: #192140;
+  border-width: 3px;
+  border-style: solid;
+}
+
+.skills {
+  background-color: #c1b9ac;
+  padding-bottom: 25px;
+}
+
+h2 {
+  color: #192140;
+}
